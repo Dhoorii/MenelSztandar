@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/baseback" android:duration="500"/>
+    <item android:drawable="@drawable/base_light_back_block" android:duration="500"/>
+    <item android:drawable="@drawable/baseback" android:duration="500"/>
+    <item android:drawable="@drawable/base_lightbatack" android:duration="500"/>
+    <item android:drawable="@drawable/baseback" android:duration="3000"/>
+    <item android:drawable="@drawable/base_light_back_block" android:duration="500"/>
+    <item android:drawable="@drawable/baseback" android:duration="4500"/>
+
+</animation-list>

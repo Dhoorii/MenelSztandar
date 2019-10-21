@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Menel Sztandar</string>
+    <string name="login">Log in</string>
+    <string name="registation">Dont have an account? Click here to register</string>
+    <string name="logout">Log Out</string>
+    <string name="fight">Fight!</string>
+    <string name="username">Email</string>
+    <string name="password">password</string>
+    <string name="charname">name your menel</string>
+    <string name="create">Create</string>
+    <string name="ErrorPasswords">passwords arent the same</string>
+    <string name="emptyField">some of the fields are still empty</string>
+    <string name="manageParty">Manage Party</string>
+    <string name="end_turn">End Turn</string>
+</resources>

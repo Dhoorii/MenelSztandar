@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "666293748645",
+    "firebase_url": "https://menelsztandar.firebaseio.com",
+    "project_id": "menelsztandar",
+    "storage_bucket": "menelsztandar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666293748645:android:9e58322bb7971379",
+        "android_client_info": {
+          "package_name": "com.jacekz.android.menelsztandar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666293748645-mthi5c381vrirri7kviss02butnnphg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jacekz.android.menelsztandar",
+            "certificate_hash": "df78c804361b8d7ff0857012ee02b03848658b28"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfv2JNRJDkY14bv8MdkuzIXf-0d5oq3zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666293748645-h22q625mkdjq0qujkn7a3t4idlc04ean.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
